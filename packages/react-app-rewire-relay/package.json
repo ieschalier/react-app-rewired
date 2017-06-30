@@ -8,6 +8,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "babel-plugin-react-relay": "^0.9.3-3"
+    "babel-plugin-react-relay": "^0.9.3"
   }
 }
